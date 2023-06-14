@@ -1,4 +1,0 @@
-cd C:\kubee
-mkdir newGIT
-cd C:\kubee/newGIT
-touch GIT
